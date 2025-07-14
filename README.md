@@ -15,11 +15,15 @@
 
 <br><br><br>
 
+- 🚀 Passionate about building scalable applications and mastering full-stack development
+  
 - 🌱 I’m currently learning **TypeScript**
   
 - 🧑‍🎓 I’m an Undergraduate at **Cardiff Metropolitan University**
   
 - 💬 Ask me about **Java and React**
+
+- 💻 Exploring Software Engineering with a focus on Full-Stack Development, and QA 
 
 - 📫 How to reach me **Mdweerasiri@gmail.com**
 
