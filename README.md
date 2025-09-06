@@ -19,7 +19,7 @@
   
 - 🌱 I’m currently learning **TypeScript**
   
-- 🧑‍🎓 I’m an Undergraduate at **Cardiff Metropolitan University**
+- 🧑‍🎓 I’m an First-class graduate at **Cardiff Metropolitan University**
   
 - 💬 Ask me about **Java and React**
 
