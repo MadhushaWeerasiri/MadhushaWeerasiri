@@ -21,7 +21,7 @@
   
 - 🧑‍🎓 I’m an First-class graduate at **Cardiff Metropolitan University**
   
-- 💬 Ask me about **Java and React**
+- 💬 Ask me about **Java and MERN**
 
 - 💻 Exploring Software Engineering with a focus on Full-Stack Development, and QA 
 
