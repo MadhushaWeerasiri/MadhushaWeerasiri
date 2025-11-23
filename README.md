@@ -17,7 +17,7 @@
 
 - 🚀 Passionate about building scalable applications and mastering full-stack development
   
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js**
   
 - 🧑‍🎓 I’m an First-class graduate at **Cardiff Metropolitan University**
   
